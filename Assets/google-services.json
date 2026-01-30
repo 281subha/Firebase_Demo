@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "770217277222",
+    "project_id": "analyticesdemo-6fad3",
+    "storage_bucket": "analyticesdemo-6fad3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770217277222:android:db992d4405a65f8f4133e7",
+        "android_client_info": {
+          "package_name": "com.subhadip.app1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmx3vzvdr0F4tFkawQsdxbo0boOBRvBL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
